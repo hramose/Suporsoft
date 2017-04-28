@@ -1,0 +1,17 @@
+Author: Comsoft México Mèxico
+Proyecto: Supporsoft
+Fecha de Lanzamiento: 2017-03-27
+
+Hola como estas, gracias por la compra o descarga de este paquete, a continuacion te escribo las instrucciones de instalacion:
+
+1.- Copiar y descomprimir el archivo en la carpeta c:\xampp\htdocs, al final tendras una carpeta llamada “Supporsoft”, a la cual accederas desde el navegador como -> http://127.0.0.1/Supporsoft
+2.- Buscar el archivo schema.sql en Supporsoft/schema.sql, una vez localizado copiar y pegar el contenido en una ventana de MySQL, PHPMyAdmin o MySQL WorkBench
+3.- En caso de ser necesario modificar el archivo C:\xampp\htdocs\Supporsoft\core\controller\Database.php para los datos asociados al acceso a la base de datos.
+
+Login : http://localhost/Supporsoft/
+Usuario: admin
+Password: admin
+
+Dudas y sugerencias a mi direccion email: elopez@communitysw.work
+o al facebook: https://www.facebook.com
+Powered By https://www.communitysw.com
