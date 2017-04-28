@@ -2,8 +2,8 @@
 * Supporsoft Database
 * @author Comsoft México Mèxico
 */
-create database Supporsoft;
-use Supporsoft;
+create database suporsoft;
+use suporsoft;
 set sql_mode='';
 create table user (
 	id int not null auto_increment primary key,
